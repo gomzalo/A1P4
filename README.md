@@ -1,2 +1,2 @@
 # A1P4
-Dino :v
+Dino (MASM) - Modo grafico, no funcional :s
